@@ -59,4 +59,4 @@ Each folder has 3 main parts:
 }
 ```
 
-## Sample Annotations
+## Sample Model Inference Footage
