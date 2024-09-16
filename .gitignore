@@ -1,0 +1,3 @@
+*.ipynb_checkpoints
+/sample_data/SNMOT-60/labels/tmep.labels/*
+dailylog.txt
