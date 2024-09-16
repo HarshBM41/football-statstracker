@@ -1,4 +1,6 @@
 ##  Overview: About The Model
+**** Due to the dataset being covered by a NDA, I cannot share the whole dataset here. However, for access to the complete repo, with the whole dataset and trained model weights / footage, please contact me at hbmehta41@gmail.com and I shall give you the access to the private repo.
+
 This project is an effort towards a computer vision model, designed to comprehensively track the players and ball, even when out of frame. The model employs object detection and tracking algorithms to extract meaningful metrics such as team possession and ball-speed estimation.
 
 Future Steps (open to suggestions -- WIP)
