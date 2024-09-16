@@ -1,0 +1,5 @@
+train: .\tracking\data\train
+val:  .\tracking\data\challenge    
+
+nc: 2
+names: ['Ball', 'Player']
