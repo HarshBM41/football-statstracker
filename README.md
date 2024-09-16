@@ -5,9 +5,9 @@ Future Steps (open to suggestions -- WIP)
     (New functionality to incorporate offside detection, main hurdle being finding quality offside data)
 
 ## About the dataset
-The dataset is provided by SoccerNet (cited)
+The dataset is provided by SoccerNet (cited).
 The tracking dataset itself is quite huge (around 9GB) and is covered under a NDA/license.
-They have been cited, but for the clarity and to better understand of the code, I shall be attaching a small sample of the dataset in sample_data
+They have been cited, but for the clarity and to better understand of the code, I shall be attaching a small sample of the dataset in sample_data.
 
 SNMOT_60 or SoccerNetMulti-Object-Tracking_60 is one of the 110 folders in the training dataset, each containing the frames for a particular subsection of a match.
 
